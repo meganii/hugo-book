@@ -2,5 +2,8 @@
   "gitbook": "3.x.x",
   "plugins": [
     "include-codeblock"
-  ]
+  ],
+  "pdf": {
+    "fontFamily": "IPAGothic"
+  }
 }
