@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "gitbook-starter-kit",
+  "name": "hugo-book",
   "license": "MIT",
-  "version": "1.0.1",
-  "description": "GitBook Starter Kit.",
+  "version": "0.0.1",
+  "description": "Hugo book.",
   "main": "index.js",
   "directories": {
     "test": "test"
