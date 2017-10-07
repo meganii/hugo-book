@@ -1,20 +1,12 @@
 # はじめに
 
-これはGitBookで書かれたスタートアップキットです。
+これは、静的サイトジェネレータHugoについての薄い電子書籍です。
 
-主にJavaScriptについての書籍を書ける構成にしています。
+## Motivation 動機
 
-構成要素としては以下のようになっています。
+- Hugo公式ドキュメントを読んで試してみたことをまとめる。
+- まとまった情報を電子書籍という形にしてみたい。
+- Hugo、Golangについてもう少し深く知りたい。
 
-- [GitBook](https://www.gitbook.com/)
-- [textlint](https://github.com/azu/textlint "textlint")
-- [ESLint](http://eslint.org/ "ESLint")
 
-またデフォルトでは、ES6でコードを書きMochaでテストができるように設定されいます。
-
-- [Babel](https://babeljs.io/ "Babel")
-- [Mocha](http://mochajs.org/ "Mocha")
-- [power-assert](https://github.com/power-assert-js/power-assert "power-assert")
-
-この部分はそれぞれの好みに変更して利用してください。
 

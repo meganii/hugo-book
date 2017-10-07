@@ -1,2 +1,6 @@
 - [はじめに](ja/introduction.md)
-- [Hello World](ja/hello-world.md)
+- [静的サイトジェネレータのすすめ](ja/static-site-generator.md)
+- [インストール](ja/installation.md)
+- [サイト作成](ja/make-site.md)
+- [デプロイ](ja/deploy.md)
+- [Tips](ja/tips.md)
