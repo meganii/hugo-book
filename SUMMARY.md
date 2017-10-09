@@ -1,6 +1,5 @@
 - [はじめに](ja/introduction.md)
 - [静的サイトジェネレータのすすめ](ja/static-site-generator.md)
-- [インストール](ja/installation.md)
-- [サイト作成](ja/make-site.md)
+- [Hugoを試してみる](ja/quick-start.md)
 - [デプロイ](ja/deploy.md)
 - [Tips](ja/tips.md)

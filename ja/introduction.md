@@ -9,4 +9,10 @@
 - Hugo、Golangについてもう少し深く知りたい。
 
 
+## 公式ドキュメント
+
+- [Hugo \| Hugo Documentation](https://gohugo.io/documentation/)
+- [Hugo Discussion](https://discourse.gohugo.io/)
+
+
 
