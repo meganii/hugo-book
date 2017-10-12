@@ -2,4 +2,5 @@
 - [静的サイトジェネレータのすすめ](ja/static-site-generator.md)
 - [Hugoを試してみる](ja/quick-start.md)
 - [デプロイ](ja/deploy.md)
-- [Tips](ja/tips.md)
+- [Tips](ja/how-to-use.md)
+- [Taxonomyとは？](ja/what-is-taxonomy.md)
