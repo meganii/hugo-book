@@ -1,5 +1,7 @@
 # 移行
 
+[Hugo \| Migrate to Hugo](https://gohugo.io/tools/migrations/)
+
 ## はてなダイアリーからの移行
 
 

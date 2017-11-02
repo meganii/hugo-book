@@ -3,4 +3,6 @@
 - [Hugoを試してみる](ja/quick-start.md)
 - [デプロイ](ja/deploy.md)
 - [Tips](ja/how-to-use.md)
+  - [Shortcodes](ja/shortcodes.md)
+  - [Related Content 関連記事](ja/related-content.md)
 - [Taxonomyとは？](ja/what-is-taxonomy.md)
